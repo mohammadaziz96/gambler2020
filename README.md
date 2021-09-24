@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning data science.
 - 💞️ I’m looking to collaborate on any project.
 - 📫 Contact me on aziznitham@gmail.com
+- 🎓 Google Scholar: https://scholar.google.com/citations?user=sblGKgMAAAAJ&hl=en
+- 👤 Linkedin: https://www.linkedin.com/in/mohammad-aziz-6a714a196/
 
 <!---
 gambler2020/gambler2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
