@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gambler2020
+- 👋 Hi, I’m Mohammad Aziz(@gambler2020).
 - 👀 I’m interested in machine learning, SQL, Python.
 - 🌱 I’m currently learning data science.
 - 💼 Looking for Part-Time Job in data science related field.
