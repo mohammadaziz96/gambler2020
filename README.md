@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohammad Aziz(@gambler2020).
+- 👋 Hi, I’m Mohammad Aziz(@gambler2020) currently studying in Cardiff Metropolitan University, United Kingdom.
 - 👀 I’m interested in machine learning, SQL, Python, Web data Scrapping.
 - 🌱 I’m currently learning data science.
 - 💼 Looking for Part-Time Job in data science related field.
