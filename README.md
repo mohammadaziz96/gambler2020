@@ -6,7 +6,7 @@
 - 📫 Contact me on aziznitham@gmail.com
 - 🎓 Google Scholar: https://scholar.google.com/citations?user=sblGKgMAAAAJ&hl=en
 - 🎓 ResearchGate: https://www.researchgate.net/profile/Mohammad-Aziz-26
-- 👤 Linkedin: https://www.linkedin.com/in/mohammad-aziz-6a714a196/
+- 👤 Linkedin: https://www.linkedin.com/in/mohammad-aziz-uk
 
 <!---
 gambler2020/gambler2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
