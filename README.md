@@ -4,6 +4,7 @@
 - 💼 Looking for Job in data science related field.
 - 💞️ I’m looking to collaborate on any project.
 - 📫 Contact me on aziznitham@gmail.com
+- 📊 Data Blog: https://data-player.com/
 - 🎓 Google Scholar: https://scholar.google.com/citations?user=sblGKgMAAAAJ&hl=en
 - 🎓 ResearchGate: https://www.researchgate.net/profile/Mohammad-Aziz-26
 - 👤 Linkedin: https://www.linkedin.com/in/mohammad-aziz-uk
